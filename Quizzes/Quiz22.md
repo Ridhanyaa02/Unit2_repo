@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/13c5ae05-ad37-416e-a6e6-644a01c0c819)# Quiz 22
+# Quiz 22
 # Create a program shows the graph of the function below for 100 values of x in the interval -10 < x < 10 
 
 ## Python code 
