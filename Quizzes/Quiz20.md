@@ -7,7 +7,6 @@ import matplotlib
 from matplotlib import pyplot as plt
 import random
 random.seed(1234)
-y = int()
 
 def equation(n:int, m:int, s:int):
     x_value = []
