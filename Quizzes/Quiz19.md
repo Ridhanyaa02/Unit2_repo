@@ -5,7 +5,6 @@
 ```.py
 import random
 random.seed(1234)
-y = int()
 
 def equation(n:int, m:int, s:int):
     output = "|   X   |      Y      |\n"
