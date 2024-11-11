@@ -28,8 +28,10 @@ plt.show()
 
 ## Proof of work
 ![Screenshot 2024-11-10 193213](https://github.com/user-attachments/assets/3226f333-fbf3-4222-90b4-12a48420bd70)
+*Figure 1.1 - Proof of work*
 
 ## Paper Solutions 
 ## Part B 
 ![image](https://github.com/user-attachments/assets/1fdbccb4-527b-4af2-b814-3a56bd194207)
+*Figure 2.1 - hex to RGB color conversion*
 
