@@ -36,4 +36,4 @@ plt.show()
 
 ## Part B
 ![image](https://github.com/user-attachments/assets/bbff9b6d-9476-4a14-b196-bf1e39b36f9b)
-*Figure 1.1 - Hex to Dec conversion*
+*Figure 2.1 - Hex to Dec conversion*
