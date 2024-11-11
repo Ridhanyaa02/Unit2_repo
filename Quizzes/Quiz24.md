@@ -16,7 +16,7 @@ else:
     data['title'] = "Quiz_data_science"
 
 plt.style.use('ggplot')
-plt.plot(data['x'],data['y'])
+plt.plot(data['x'],data['y'],linewidth = "2")
 plt.xlabel('X')
 plt.ylabel('Y')
 plt.title(data['title'])
