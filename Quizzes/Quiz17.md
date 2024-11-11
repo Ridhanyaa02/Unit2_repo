@@ -28,13 +28,16 @@ print(truthtable())
 
 ## Proof of work 
 ![image](https://github.com/user-attachments/assets/e53c03f7-e7b6-4f34-97c1-7c7d94db004f)
+*Figure 1.1 - proof of work*
 
 ## Paper solutions 
 
 ## Part B 
 ### Truth Table 
 ![image](https://github.com/user-attachments/assets/dc0b696a-eb44-4acb-adda-91dbbdda7074)
+*Figure 2.1 - Truth Table for part B*
 
 ### Circuit
 ![image](https://github.com/user-attachments/assets/d5c65a23-e50c-4f5c-a738-a26811d2c46f)
+*Figure 2.2 - Circuit for part B*
 
