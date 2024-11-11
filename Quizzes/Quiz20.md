@@ -31,7 +31,9 @@ plt.show()
 
 ## Proof of work 
 ![image](https://github.com/user-attachments/assets/fb9b688a-f9a2-4e03-adc4-8b9721316573)
+*Figure 1.1 - Proof of Work*
 
 ## Paper solutions 
 # Part b
 ![image](https://github.com/user-attachments/assets/6d57a3f6-9273-404b-9c36-7cf163b83a4a)
+*Figure 2.1 - Part B solution*
