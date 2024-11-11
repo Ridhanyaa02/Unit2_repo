@@ -27,10 +27,12 @@ plt.show()
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/fbd2ef55-9929-42c6-b102-e60a74ad99f0)
+*Figure 1.1 - Proof of work*
 
 
 ## Paper Solutions 
 ## Part B
 ![image](https://github.com/user-attachments/assets/19a4656d-e5e9-48b2-8d17-c3b8513e3a3e)
+*Figure 1.1 - Circuit for Part B*
 
 
