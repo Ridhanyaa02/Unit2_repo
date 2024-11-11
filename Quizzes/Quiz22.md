@@ -29,9 +29,11 @@ plt.show()
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/82b1668c-452b-443e-86ba-64dbc4dd80fb)
+*Figure 1.1 - Proof of work*
 
 
 ## Paper Solutions 
 
 ## Part B
 ![image](https://github.com/user-attachments/assets/bbff9b6d-9476-4a14-b196-bf1e39b36f9b)
+*Figure 1.1 - Hex to Dec conversion*
