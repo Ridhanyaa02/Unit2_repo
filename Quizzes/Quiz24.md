@@ -24,5 +24,11 @@ plt.show()
 ```
 
 ## Proof of work 
+![image](https://github.com/user-attachments/assets/638d654c-0d1f-4ab5-9334-465564ab5ab4)
+*Figure 1.1 - Proof of work* 
+
 ## Paper solutions 
-## Part B 
+## Part B
+![image](https://github.com/user-attachments/assets/f0d90581-5321-4182-8e5a-e5c5d6e271dc)
+*Figure 2.1 - Converting RBG to Hex* 
+ 
