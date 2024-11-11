@@ -28,12 +28,15 @@ print(truthtable())
 ```
 ## Proof of work 
 ![image](https://github.com/user-attachments/assets/87253c7e-cdc2-40e1-b9be-3f02a3ec9d1e)
+*Figure 1.1 - Proof of work*
 
 ## Paper solutions 
 
 ## Part B 
 ### Truth Table 
 ![image](https://github.com/user-attachments/assets/a8d4d60c-fbc5-4aa1-b1c0-4dfdff740f55)
+*Figure 2.1 - Truth Table for Part B*
 ### Circuit 
 ![image](https://github.com/user-attachments/assets/b6167612-ca8a-4591-8ba2-1622f7c4dd1f)
+*Figure 2.1 - Circuit for Part B**
 
